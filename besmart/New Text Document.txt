@@ -1,6 +1,0 @@
-https://docs.google.com/forms/d/e/1FAIpQLSc2PS2kYFqla4NwqI5z_fOX6Z3aCS6zlSqGctoplPTBCl6DhQ/viewform?usp=pp_url
-&entry.1334813577=1234
-&entry.1846682253=5678
-
-
-https://docs.google.com/forms/d/e/1FAIpQLSc2PS2kYFqla4NwqI5z_fOX6Z3aCS6zlSqGctoplPTBCl6DhQ/viewform?usp=pp_url&entry.1334813577=${profile.userId}&entry.1846682253=${profile.pictureUrl}
